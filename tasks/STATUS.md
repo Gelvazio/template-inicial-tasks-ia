@@ -16,8 +16,6 @@ tarefas **abertas ou em andamento**: linha que vira ✅ é movida para o [`task_
 
 | Tarefa | Título | Prioridade | Depende de | Status | Em uso por | Etapa |
 |---|---|---|---|---|---|---|
-| GUIA | **Página `index.html` explicando a estrutura inicial de projetos de IA** | 🟡 Média | Nenhuma | 🔄 Em execução | — (não reservável) | [ETAPA-002](etapas/ETAPA-002-bd7434ed-GUIA-INDEX.md) |
-| GUIA.1 | Criar o `index.html` e o estilo da página-guia | 🟡 Média | Nenhuma | 🔄 Em execução | Claude Code (Opus 5.5) (local · main) (desde 2026-10-14 09:01) | [ETAPA-002](etapas/ETAPA-002-bd7434ed-GUIA-INDEX.md) |
 
 ## Escopo do projeto
 

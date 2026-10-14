@@ -11,3 +11,5 @@
 |---|---|---|---|---|---|---|
 | TEMPLATE | **Criar o esqueleto de projeto com IA a partir do Dashboard AI** | 🟠 Alta | Nenhuma | ✅ Concluído | — (não reservável) | [ETAPA-001](etapas/ETAPA-001-db7a9bca-CRIAR-TEMPLATE.md) |
 | TEMPLATE.1 | Copiar e generalizar regras, quadro, skills, agentes, hooks e visualizador | 🟠 Alta | Nenhuma | ✅ Concluído | — | [ETAPA-001](etapas/ETAPA-001-db7a9bca-CRIAR-TEMPLATE.md) |
+| GUIA | **Página `index.html` explicando a estrutura inicial de projetos de IA** | 🟡 Média | Nenhuma | ✅ Concluído | — (não reservável) | [ETAPA-002](etapas/ETAPA-002-bd7434ed-GUIA-INDEX.md) |
+| GUIA.1 | Criar o `index.html` e o estilo da página-guia | 🟡 Média | Nenhuma | ✅ Concluído | — | [ETAPA-002](etapas/ETAPA-002-bd7434ed-GUIA-INDEX.md) |
