@@ -16,6 +16,8 @@ tarefas **abertas ou em andamento**: linha que vira ✅ é movida para o [`task_
 
 | Tarefa | Título | Prioridade | Depende de | Status | Em uso por | Etapa |
 |---|---|---|---|---|---|---|
+| GUIA | **Página `index.html` explicando a estrutura inicial de projetos de IA** | 🟡 Média | Nenhuma | 🔄 Em execução | — (não reservável) | [ETAPA-002](etapas/ETAPA-002-bd7434ed-GUIA-INDEX.md) |
+| GUIA.1 | Criar o `index.html` e o estilo da página-guia | 🟡 Média | Nenhuma | 🔄 Em execução | Claude Code (Opus 5.5) (local · main) (desde 2026-10-14 09:01) | [ETAPA-002](etapas/ETAPA-002-bd7434ed-GUIA-INDEX.md) |
 
 ## Escopo do projeto
 
@@ -29,6 +31,7 @@ tarefas **abertas ou em andamento**: linha que vira ✅ é movida para o [`task_
 | Etapa | Assunto | Arquivo |
 |---|---|---|
 | 001-db7a9bca | TEMPLATE: criar o esqueleto a partir do Dashboard AI | [ETAPA-001-db7a9bca-CRIAR-TEMPLATE.md](etapas/ETAPA-001-db7a9bca-CRIAR-TEMPLATE.md) |
+| 002-bd7434ed | GUIA: página `index.html` explicando a estrutura inicial | [ETAPA-002-bd7434ed-GUIA-INDEX.md](etapas/ETAPA-002-bd7434ed-GUIA-INDEX.md) |
 
 ## Riscos
 
