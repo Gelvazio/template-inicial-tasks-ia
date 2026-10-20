@@ -69,7 +69,8 @@ foi entregue (commit + push) ou liberada. Assim não há dois agentes nos mesmos
 
 ## Proibido
 
-- ⛔ Mais de uma subtarefa em andamento ao mesmo tempo.
+- ⛔ Mais de uma subtarefa em andamento ao mesmo tempo
+  (fora do modo sargento: ver "Líder sargento" abaixo).
 - ⛔ Executor ou classificador usando Git ou editando o quadro (fora a linha `Nível`).
 - ⛔ Pular a reserva, o commit por subtarefa ou a validação.
 - ⛔ Mudar prioridade, ou pegar subtarefa reservada por outra frente ou sob 🔒 trava especial.
@@ -98,7 +99,8 @@ skill (classificar, reservar, conferir, commitar) continua igual.
 
 ### 3. Onde rodam os agentes
 
-- **No PC:** terminais do herdr (`regras/herdr.md`). Um agente Claude Code por painel, com a
+- **No PC:** terminais do herdr
+  (`rules-local/regras/herdr.md`). Um agente Claude Code por painel, com a
   conta e o modelo do nível (`LEVE` = Haiku, `MEDIO` = Sonnet, `PESADO` = Opus 5.5+ ou Fable).
 - **Na nuvem (sem herdr):** subagentes do Claude Code do nível (`executor-leve`,
   `executor-medio`, `executor-pesado`).
